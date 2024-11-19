@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 2317,
-  "@id" : "http://localhost:8887/iiif/odyssey_0015",
+  "@id" : "https://csauerwa.github.io/iiif-images/iiif/odyssey_0015",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3676
 }
