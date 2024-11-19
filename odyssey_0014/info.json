@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 73,
+    "height" : 115
+  }, {
+    "width" : 145,
+    "height" : 230
+  }, {
+    "width" : 290,
+    "height" : 460
+  }, {
+    "width" : 580,
+    "height" : 919
+  }, {
+    "width" : 1159,
+    "height" : 1838
+  }, {
+    "width" : 2317,
+    "height" : 3676
+  } ],
+  "profile" : "level0",
+  "width" : 2317,
+  "id" : "https://csauerwa.github.io/iiif-images/odyssey_0014",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3676
+}
